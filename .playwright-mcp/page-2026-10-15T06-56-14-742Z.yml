@@ -1,0 +1,505 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e6]:
+        - link "Pixabay" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e15]:
+          - button "Search Pixabay" [ref=e16] [cursor=pointer]:
+            - img "Search" [ref=e17]
+          - searchbox "Search Pixabay" [ref=e21]: man scream
+          - button "Clear" [ref=e23] [cursor=pointer]:
+            - generic:
+              - img "Close"
+          - button "Sound Effects" [ref=e26] [cursor=pointer]
+        - generic [ref=e27]:
+          - button "Explore" [ref=e31] [cursor=pointer]
+          - button "Log in" [ref=e33] [cursor=pointer]
+          - button "Join" [ref=e34] [cursor=pointer]
+          - button "Upload" [ref=e36] [cursor=pointer]
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - button "Sound Effects" [ref=e41] [cursor=pointer]
+        - button "Duration" [ref=e43] [cursor=pointer]
+        - button "Theme" [ref=e45] [cursor=pointer]
+        - button "Content type" [ref=e47] [cursor=pointer]
+      - generic [ref=e48]:
+        - button "Search settings" [ref=e50] [cursor=pointer]:
+          - generic:
+            - img "Settings"
+        - button "Most relevant" [ref=e52] [cursor=pointer]
+    - generic [ref=e53]:
+      - generic [ref=e54]:
+        - heading "2,615 royalty-free man scream sound effects" [level=1] [ref=e55]
+        - paragraph [ref=e56]: Download man scream royalty-free sound effects to use in your next project.
+        - generic [ref=e61]:
+          - link "scream" [ref=e63] [cursor=pointer]:
+            - /url: /sound-effects/search/scream/
+          - link "male scream" [ref=e66] [cursor=pointer]:
+            - /url: /sound-effects/search/male%20scream/
+          - link "horror" [ref=e69] [cursor=pointer]:
+            - /url: /sound-effects/search/horror/
+          - link "male" [ref=e72] [cursor=pointer]:
+            - /url: /sound-effects/search/male/
+          - link "panic" [ref=e75] [cursor=pointer]:
+            - /url: /sound-effects/search/panic/
+          - link "reaction" [ref=e78] [cursor=pointer]:
+            - /url: /sound-effects/search/reaction/
+          - link "yelling" [ref=e81] [cursor=pointer]:
+            - /url: /sound-effects/search/yelling/
+          - link "horror scream" [ref=e84] [cursor=pointer]:
+            - /url: /sound-effects/search/horror%20scream/
+          - link "distress" [ref=e87] [cursor=pointer]:
+            - /url: /sound-effects/search/distress/
+      - generic [ref=e89]: Royalty-free sound effects
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]:
+            - button [ref=e95] [cursor=pointer]:
+              - button [ref=e98]:
+                - img "Play" [ref=e99]
+            - generic [ref=e102]:
+              - link "Male Horror Scream 08" [ref=e103] [cursor=pointer]:
+                - /url: /sound-effects/people-male-horror-scream-08-352438/
+              - link "Universfield" [ref=e104] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e106]:
+            - button "Download" [ref=e107] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e108] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - button [ref=e111] [cursor=pointer]:
+              - button [ref=e114]:
+                - img "Play" [ref=e115]
+            - generic [ref=e118]:
+              - link "Man Scream 011" [ref=e119] [cursor=pointer]:
+                - /url: /sound-effects/people-man-scream-011-278818/
+              - link "Universfield" [ref=e120] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e121]:
+            - text: ","
+            - generic [ref=e122]:
+              - button "Download" [ref=e123] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e124] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e125]:
+          - generic [ref=e126]:
+            - button [ref=e127] [cursor=pointer]:
+              - button [ref=e130]:
+                - img "Play" [ref=e131]
+            - generic [ref=e134]:
+              - link "Man Scream 04" [ref=e135] [cursor=pointer]:
+                - /url: /sound-effects/people-man-scream-04-252034/
+              - link "Universfield" [ref=e136] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e137]:
+            - text: ","
+            - generic [ref=e138]:
+              - button "Download" [ref=e139] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e140] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e141]:
+          - generic [ref=e142]:
+            - button [ref=e143] [cursor=pointer]:
+              - button [ref=e146]:
+                - img "Play" [ref=e147]
+            - generic [ref=e150]:
+              - link "Man Pain Scream 02" [ref=e151] [cursor=pointer]:
+                - /url: /sound-effects/people-man-pain-scream-02-567205/
+              - link "Universfield" [ref=e152] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e154]:
+            - button "Download" [ref=e155] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e156] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - button [ref=e159] [cursor=pointer]:
+              - button [ref=e162]:
+                - img "Play" [ref=e163]
+            - generic [ref=e166]:
+              - link "Man Pain Scream" [ref=e167] [cursor=pointer]:
+                - /url: /sound-effects/people-man-pain-scream-567203/
+              - link "Universfield" [ref=e168] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e170]:
+            - button "Download" [ref=e171] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e172] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e173]:
+          - generic [ref=e174]:
+            - button [ref=e175] [cursor=pointer]:
+              - button [ref=e178]:
+                - img "Play" [ref=e179]
+            - generic [ref=e182]:
+              - link "Man Scream" [ref=e183] [cursor=pointer]:
+                - /url: /sound-effects/people-man-scream-259682/
+              - link "Universfield" [ref=e184] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e185]:
+            - text: ","
+            - generic [ref=e186]:
+              - button "Download" [ref=e187] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e188] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e189]:
+          - generic [ref=e190]:
+            - button [ref=e191] [cursor=pointer]:
+              - button [ref=e194]:
+                - img "Play" [ref=e195]
+            - generic [ref=e198]:
+              - link "Man death scream" [ref=e199] [cursor=pointer]:
+                - /url: /sound-effects/people-man-death-scream-186763/
+              - link "u_r7cny11q7r" [ref=e200] [cursor=pointer]:
+                - /url: /users/u_r7cny11q7r-41888232/
+          - generic [ref=e201]:
+            - text: ", , ,"
+            - generic [ref=e202]:
+              - button "Download" [ref=e203] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e204] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e205]:
+          - generic [ref=e206]:
+            - button [ref=e207] [cursor=pointer]:
+              - button [ref=e209]:
+                - img "Play" [ref=e210]
+            - generic [ref=e213]:
+              - link "Falling man scream" [ref=e214] [cursor=pointer]:
+                - /url: /sound-effects/horror-falling-man-scream-450793/
+              - link "nematoki" [ref=e215] [cursor=pointer]:
+                - /url: /users/nematoki-32544028/
+          - generic [ref=e216]:
+            - text: ", ,"
+            - generic [ref=e217]:
+              - button "Download" [ref=e218] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e219] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - button [ref=e222] [cursor=pointer]:
+              - button [ref=e225]:
+                - img "Play" [ref=e226]
+            - generic [ref=e229]:
+              - link "Man Scream 05" [ref=e230] [cursor=pointer]:
+                - /url: /sound-effects/people-man-scream-05-252033/
+              - link "Universfield" [ref=e231] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e232]:
+            - text: ","
+            - generic [ref=e233]:
+              - button "Download" [ref=e234] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e235] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e236]:
+          - generic [ref=e237]:
+            - button [ref=e238] [cursor=pointer]:
+              - button [ref=e241]:
+                - img "Play" [ref=e242]
+            - generic [ref=e245]:
+              - link "Angry Man Yell Sound HD" [ref=e246] [cursor=pointer]:
+                - /url: /sound-effects/people-angry-man-yell-sound-hd-379386/
+              - link "Virtual_Vibes" [ref=e247] [cursor=pointer]:
+                - /url: /users/virtual_vibes-51361309/
+          - generic [ref=e249]:
+            - button "Download" [ref=e250] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e251] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e252]:
+          - generic [ref=e253]:
+            - button [ref=e254] [cursor=pointer]:
+              - button [ref=e257]:
+                - img "Play" [ref=e258]
+            - generic [ref=e261]:
+              - link "Man Fear Scream" [ref=e262] [cursor=pointer]:
+                - /url: /sound-effects/people-man-fear-scream-244948/
+              - link "Universfield" [ref=e263] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e264]:
+            - text: ", ,"
+            - generic [ref=e265]:
+              - button "Download" [ref=e266] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e267] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e268]:
+          - generic [ref=e269]:
+            - button [ref=e270] [cursor=pointer]:
+              - button [ref=e273]:
+                - img "Play" [ref=e274]
+            - generic [ref=e277]:
+              - link "Sound Effects - Man Screaming 01" [ref=e278] [cursor=pointer]:
+                - /url: /sound-effects/people-sound-effects-man-screaming-01-247131/
+              - link "ScottishPerson" [ref=e279] [cursor=pointer]:
+                - /url: /users/scottishperson-16626294/
+          - generic [ref=e280]:
+            - text: ","
+            - generic [ref=e281]:
+              - button "Download" [ref=e282] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e283] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - button [ref=e286] [cursor=pointer]:
+              - button [ref=e288]:
+                - img "Play" [ref=e289]
+            - generic [ref=e292]:
+              - link "Loud Male Scream HD" [ref=e293] [cursor=pointer]:
+                - /url: /sound-effects/people-loud-male-scream-hd-379385/
+              - link "Virtual_Vibes" [ref=e294] [cursor=pointer]:
+                - /url: /users/virtual_vibes-51361309/
+          - generic [ref=e296]:
+            - button "Download" [ref=e297] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e298] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e299]:
+          - generic [ref=e300]:
+            - button [ref=e301] [cursor=pointer]:
+              - button [ref=e304]:
+                - img "Play" [ref=e305]
+            - generic [ref=e308]:
+              - link "Man Scream 03" [ref=e309] [cursor=pointer]:
+                - /url: /sound-effects/film-special-effects-man-scream-03-244943/
+              - link "Universfield" [ref=e310] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e311]:
+            - text: ", ,"
+            - generic [ref=e312]:
+              - button "Download" [ref=e313] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e314] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e315]:
+          - generic [ref=e316]:
+            - button [ref=e317] [cursor=pointer]:
+              - button [ref=e320]:
+                - img "Play" [ref=e321]
+            - generic [ref=e324]:
+              - link "Man Angry Loud HD" [ref=e325] [cursor=pointer]:
+                - /url: /sound-effects/people-man-angry-loud-hd-379383/
+              - link "Virtual_Vibes" [ref=e326] [cursor=pointer]:
+                - /url: /users/virtual_vibes-51361309/
+          - generic [ref=e328]:
+            - button "Download" [ref=e329] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e330] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - button [ref=e333] [cursor=pointer]:
+              - button [ref=e336]:
+                - img "Play" [ref=e337]
+            - generic [ref=e340]:
+              - link "Shock Scream" [ref=e341] [cursor=pointer]:
+                - /url: /sound-effects/people-shock-scream-277572/
+              - link "Universfield" [ref=e342] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e343]:
+            - text: ","
+            - generic [ref=e344]:
+              - button "Download" [ref=e345] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e346] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e347]:
+          - generic [ref=e348]:
+            - button [ref=e349] [cursor=pointer]:
+              - button [ref=e352]:
+                - img "Play" [ref=e353]
+            - generic [ref=e356]:
+              - link "Sound Effects - Man Screaming 02" [ref=e357] [cursor=pointer]:
+                - /url: /sound-effects/people-sound-effects-man-screaming-02-247128/
+              - link "ScottishPerson" [ref=e358] [cursor=pointer]:
+                - /url: /users/scottishperson-16626294/
+          - generic [ref=e359]:
+            - text: ","
+            - generic [ref=e360]:
+              - button "Download" [ref=e361] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e362] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - button [ref=e365] [cursor=pointer]:
+              - button [ref=e367]:
+                - img "Play" [ref=e368]
+            - generic [ref=e371]:
+              - link "Screaming Man" [ref=e372] [cursor=pointer]:
+                - /url: /sound-effects/people-screaming-man-389826/
+              - link "u_xg7ssi08yr" [ref=e373] [cursor=pointer]:
+                - /url: /users/u_xg7ssi08yr-48039129/
+          - generic [ref=e374]:
+            - text: ", ,"
+            - generic [ref=e375]:
+              - button "Download" [ref=e376] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e377] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+        - generic [ref=e378]:
+          - generic [ref=e379]:
+            - button [ref=e380] [cursor=pointer]:
+              - button [ref=e383]:
+                - img "Play" [ref=e384]
+            - generic [ref=e387]:
+              - link "Male Falling Scream" [ref=e388] [cursor=pointer]:
+                - /url: /sound-effects/people-male-falling-scream-326183/
+              - link "Universfield" [ref=e389] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e391]:
+            - button "Download" [ref=e392] [cursor=pointer]:
+              - generic:
+                - img "Download"
+            - button "Dots" [ref=e393] [cursor=pointer]:
+              - generic:
+                - img "Dots"
+        - generic [ref=e394]:
+          - generic [ref=e395]:
+            - button [ref=e396] [cursor=pointer]:
+              - button [ref=e399]:
+                - img "Play" [ref=e400]
+            - generic [ref=e403]:
+              - link "Male Horror Scream" [ref=e404] [cursor=pointer]:
+                - /url: /sound-effects/people-male-horror-scream-123080/
+              - link "Universfield" [ref=e405] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+          - generic [ref=e406]:
+            - text: ","
+            - generic [ref=e407]:
+              - button "Download" [ref=e408] [cursor=pointer]:
+                - generic:
+                  - img "Download"
+              - button "Dots" [ref=e409] [cursor=pointer]:
+                - generic:
+                  - img "Dots"
+      - generic [ref=e410]:
+        - link "Next page" [ref=e412] [cursor=pointer]:
+          - /url: /sound-effects/search/man%20scream/?pagi=2
+        - generic [ref=e413]: Page 1 of 131
+    - contentinfo [ref=e414]:
+      - generic [ref=e415]:
+        - generic [ref=e416]:
+          - generic [ref=e421]: Over 6.3 million+ high quality stock images, videos and music shared by our talented community.
+          - generic [ref=e422]:
+            - link "Instagram" [ref=e423] [cursor=pointer]:
+              - /url: https://www.instagram.com/pixabay/
+              - img "Instagram" [ref=e424]
+            - link "Facebook" [ref=e427] [cursor=pointer]:
+              - /url: https://www.facebook.com/pixabay
+              - img "Facebook" [ref=e428]
+            - link "TikTok" [ref=e431] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pixabaymedia
+              - img "TikTokBrand" [ref=e432]
+            - link "Twitter" [ref=e443] [cursor=pointer]:
+              - /url: https://x.com/pixabay
+              - img "TwitterX" [ref=e444]
+            - link "LinkedIn" [ref=e450] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/pixabay/
+              - img "Linkedin" [ref=e451]
+            - link "YouTube" [ref=e454] [cursor=pointer]:
+              - /url: https://www.youtube.com/@pixabaymedia
+              - img "Youtube" [ref=e455]
+            - link "Pinterest" [ref=e458] [cursor=pointer]:
+              - /url: https://pinterest.com/pixabay/
+              - img "Pinterest" [ref=e459]
+        - generic [ref=e462]:
+          - generic [ref=e463]: Discover
+          - generic [ref=e464]:
+            - link "Editor's Choice" [ref=e465] [cursor=pointer]:
+              - /url: /editors_choice/
+            - link "Curated Collections" [ref=e467] [cursor=pointer]:
+              - /url: /collections/
+            - link "Pixabay Radio" [ref=e469] [cursor=pointer]:
+              - /url: /playlists/
+            - link "Popular Images" [ref=e471] [cursor=pointer]:
+              - /url: /images/search/
+            - link "Popular Videos" [ref=e473] [cursor=pointer]:
+              - /url: /videos/search/
+            - link "Popular Music" [ref=e475] [cursor=pointer]:
+              - /url: /music/search/
+            - link "Popular Searches" [ref=e477] [cursor=pointer]:
+              - /url: /popular-searches/
+        - generic [ref=e479]:
+          - generic [ref=e480]: Community
+          - generic [ref=e481]:
+            - link "Contests Live" [ref=e482] [cursor=pointer]:
+              - /url: /contests/
+              - generic [ref=e483]: Contests
+              - generic [ref=e484]: Live
+            - link "Creators" [ref=e487] [cursor=pointer]:
+              - /url: /users/
+            - link "Ambassadors" [ref=e489] [cursor=pointer]:
+              - /url: /service/ambassador/
+            - link "Forum" [ref=e491] [cursor=pointer]:
+              - /url: /forum/
+            - link "Blog" [ref=e493] [cursor=pointer]:
+              - /url: /blog/
+        - generic [ref=e495]:
+          - generic [ref=e496]: About
+          - generic [ref=e497]:
+            - link "About Us" [ref=e498] [cursor=pointer]:
+              - /url: /service/about/
+            - link "FAQ" [ref=e500] [cursor=pointer]:
+              - /url: /service/faq/
+            - link "License Summary" [ref=e502] [cursor=pointer]:
+              - /url: /service/license-summary/
+            - link "Terms of Service" [ref=e504] [cursor=pointer]:
+              - /url: /service/terms/
+            - link "Privacy Policy" [ref=e506] [cursor=pointer]:
+              - /url: /service/privacy/
+            - link "Cookies Policy" [ref=e508] [cursor=pointer]:
+              - /url: /service/cookies/
+            - link "Digital Services Act" [ref=e510] [cursor=pointer]:
+              - /url: /service/digital-services-act/
+            - link "Report Content" [ref=e512] [cursor=pointer]:
+              - /url: /content-reports/
+            - link "API" [ref=e514] [cursor=pointer]:
+              - /url: /service/about/api/
+  - generic: Cookies Settings

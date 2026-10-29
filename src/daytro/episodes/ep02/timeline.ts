@@ -1,0 +1,133 @@
+import {type AudioManifest, type Line, makeEpisode, type Step} from '../shared/timeline';
+import audioData from './audio.json';
+import lineData from './lines.json';
+
+export type {Scene} from '../shared/timeline';
+
+const SCRIPT: {key: string; steps: Step[]}[] = [
+	{
+		key: 'dusk',
+		steps: [
+			{wait: 0.8},
+			{line: 'a1'},
+			{line: 'a2'},
+			{line: 'a3'},
+			{line: 'a4'},
+			{line: 'a5'},
+			{line: 'a6'},
+			{wait: 0.4},
+		],
+	},
+	{
+		key: 'ladder',
+		steps: [
+			{mark: 'climb'},
+			{wait: 1.6},
+			{line: 'b1'},
+			{line: 'b2'},
+			{mark: 'friends'},
+			{wait: 0.6},
+			{line: 'b3'},
+			{line: 'b4'},
+			{line: 'b5'},
+			{line: 'b6'},
+			{line: 'b7'},
+			{line: 'b8'},
+			{wait: 0.3},
+		],
+	},
+	{
+		key: 'zap',
+		steps: [
+			{line: 'c1'},
+			{line: 'c2'},
+			{line: 'c2b'},
+			{line: 'c2c'},
+			{line: 'c2e'},
+			{line: 'c2d'},
+			{line: 'c3'},
+			{mark: 'zap'},
+			{wait: 1.4},
+			{line: 'c4'},
+			{mark: 'dazed'},
+			{line: 'c5'},
+			{line: 'c6'},
+			{line: 'c7'},
+			{line: 'c7b'},
+			{line: 'c8'},
+			{line: 'c9'},
+			{mark: 'leave'},
+			{wait: 1.2},
+		],
+	},
+	{
+		key: 'pets',
+		steps: [
+			{wait: 0.6},
+			{line: 'd1'},
+			{line: 'd2'},
+			{line: 'd3'},
+			{line: 'd4'},
+			{line: 'd5'},
+			{line: 'd6'},
+			{line: 'd7'},
+			{wait: 0.5},
+		],
+	},
+	{
+		key: 'blackout',
+		steps: [
+			{line: 'e1'},
+			{mark: 'fix'},
+			{wait: 1.2},
+			{line: 'e2'},
+			{mark: 'switch'},
+			{wait: 1.0},
+			{line: 'e3'},
+			{line: 'e4'},
+			{line: 'e4b'},
+			{mark: 'khoa'},
+			{line: 'e5'},
+			{line: 'e6', gap: 0.6},
+			{mark: 'thu'},
+			{line: 'e7'},
+			{mark: 'gate'},
+			{line: 'e8'},
+			{line: 'e9'},
+			{line: 'e10'},
+			{line: 'e11'},
+			{wait: 0.6},
+		],
+	},
+	{
+		key: 'thanks',
+		steps: [
+			{mark: 'thu'},
+			{wait: 2.6},
+			{line: 'g1'},
+			{line: 'g2'},
+			{line: 'g3'},
+			{line: 'g4'},
+			{line: 'g5'},
+			{line: 'g6'},
+			{line: 'g7'},
+			{wait: 0.6},
+		],
+	},
+	{
+		key: 'outro',
+		steps: [
+			{wait: 1.0},
+			{line: 'f1'},
+			{wait: 0.6},
+			{mark: 'iris'},
+			{wait: 1.2},
+			{mark: 'card'},
+			{line: 'f2'},
+			{wait: 2.5},
+		],
+	},
+];
+
+export const EP = makeEpisode(lineData as Line[], audioData as AudioManifest, SCRIPT);
+export const {LINES, SCENES, DURATION, scene, speaking, mouth, mouthOf, thinking, audioFile} = EP;

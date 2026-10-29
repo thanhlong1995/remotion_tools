@@ -1,0 +1,282 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e4]:
+    - banner [ref=f3e5]:
+      - generic [ref=f3e6]:
+        - link "Pixabay" [ref=f3e8] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f3e15]:
+          - button "Search Pixabay" [ref=f3e16] [cursor=pointer]:
+            - img "Search" [ref=f3e17]
+          - searchbox "Search Pixabay" [ref=f3e21]
+          - button "Sound Effects" [ref=f3e24] [cursor=pointer]
+        - generic [ref=f3e25]:
+          - button "Explore" [ref=f3e29] [cursor=pointer]
+          - button "Log in" [ref=f3e31] [cursor=pointer]
+          - button "Join" [ref=f3e32] [cursor=pointer]
+          - button "Upload" [ref=f3e34] [cursor=pointer]
+    - generic [ref=f3e35]:
+      - generic [ref=f3e36]:
+        - generic [ref=f3e39]:
+          - generic [ref=f3e49]:
+            - generic [ref=f3e50]: Funny Male Laugh
+            - link "Universfield" [ref=f3e51] [cursor=pointer]:
+              - /url: /users/universfield-28281460/
+          - generic [ref=f3e52]:
+            - generic [ref=f3e53]: 0:00
+            - slider [ref=f3e55] [cursor=pointer]
+            - generic [ref=f3e60]: 0:04
+          - button "paused" [ref=f3e63] [cursor=pointer]:
+            - img "Play" [ref=f3e64]
+          - generic [ref=f3e68]:
+            - button "volume" [ref=f3e69] [cursor=pointer]:
+              - img "Volume" [ref=f3e70]
+            - slider "volume" [ref=f3e77]: "1"
+        - generic [ref=f3e78]:
+          - generic [ref=f3e80]:
+            - heading "Male laugh, Man laugh, Laughter sound effect. Free for use." [level=1] [ref=f3e81]
+            - generic [ref=f3e83]: Laughing, Funny, Happy, Sound, Meme, Hilarious
+          - generic [ref=f3e84]:
+            - generic [ref=f3e85]: 6 comments
+            - generic [ref=f3e86]:
+              - img "CommentFilled" [ref=f3e87]
+              - generic [ref=f3e90]: The community are waiting to hear from you!
+              - generic [ref=f3e91]: Log in or Join Pixabay to view comments
+              - generic [ref=f3e92]:
+                - button "Log in" [ref=f3e93] [cursor=pointer]
+                - button "Join Pixabay" [ref=f3e94] [cursor=pointer]
+          - generic [ref=f3e95]:
+            - link "Male Laugh" [ref=f3e96] [cursor=pointer]:
+              - /url: /sound-effects/search/male%20laugh/
+            - link "Man Laugh" [ref=f3e98] [cursor=pointer]:
+              - /url: /sound-effects/search/man%20laugh/
+            - link "Laughter" [ref=f3e100] [cursor=pointer]:
+              - /url: /sound-effects/search/laughter/
+            - link "Laughing" [ref=f3e102] [cursor=pointer]:
+              - /url: /sound-effects/search/laughing/
+            - link "Funny" [ref=f3e104] [cursor=pointer]:
+              - /url: /sound-effects/search/funny/
+            - link "Laugh" [ref=f3e106] [cursor=pointer]:
+              - /url: /sound-effects/search/laugh/
+            - link "Chuckle" [ref=f3e108] [cursor=pointer]:
+              - /url: /sound-effects/search/chuckle/
+            - link "Giggle" [ref=f3e110] [cursor=pointer]:
+              - /url: /sound-effects/search/giggle/
+            - link "Contagious Laughter" [ref=f3e112] [cursor=pointer]:
+              - /url: /sound-effects/search/contagious%20laughter/
+            - link "Happy" [ref=f3e114] [cursor=pointer]:
+              - /url: /sound-effects/search/happy/
+            - link "Comedy" [ref=f3e116] [cursor=pointer]:
+              - /url: /sound-effects/search/comedy/
+            - link "Reaction" [ref=f3e118] [cursor=pointer]:
+              - /url: /sound-effects/search/reaction/
+            - link "Voice" [ref=f3e120] [cursor=pointer]:
+              - /url: /sound-effects/search/voice/
+        - generic [ref=f3e124]:
+          - heading "Related free music" [level=2] [ref=f3e125]
+          - generic [ref=f3e127]:
+            - generic [ref=f3e128]:
+              - generic [ref=f3e129]:
+                - button [ref=f3e130] [cursor=pointer]:
+                  - button [ref=f3e133]:
+                    - img "Play" [ref=f3e134]
+                - generic [ref=f3e137]:
+                  - link "Podcast Music Intro - Version 6 (Riding')" [ref=f3e138] [cursor=pointer]:
+                    - /url: /sound-effects/musical-podcast-music-intro-version-6-ridingx27-617276/
+                  - link "BombinSound" [ref=f3e139] [cursor=pointer]:
+                    - /url: /users/bombinsound-54782632/
+              - generic [ref=f3e141]:
+                - button "Download" [ref=f3e142] [cursor=pointer]:
+                  - generic:
+                    - img "Download"
+                - button "Dots" [ref=f3e143] [cursor=pointer]:
+                  - generic:
+                    - img "Dots"
+            - generic [ref=f3e144]:
+              - generic [ref=f3e145]:
+                - button [ref=f3e146] [cursor=pointer]:
+                  - button [ref=f3e149]:
+                    - img "Play" [ref=f3e150]
+                - generic [ref=f3e153]:
+                  - link "Podcast Music Intro - Version 7 (Riding')" [ref=f3e154] [cursor=pointer]:
+                    - /url: /sound-effects/musical-podcast-music-intro-version-7-ridingx27-617275/
+                  - link "BombinSound" [ref=f3e155] [cursor=pointer]:
+                    - /url: /users/bombinsound-54782632/
+              - generic [ref=f3e157]:
+                - button "Download" [ref=f3e158] [cursor=pointer]:
+                  - generic:
+                    - img "Download"
+                - button "Dots" [ref=f3e159] [cursor=pointer]:
+                  - generic:
+                    - img "Dots"
+            - generic [ref=f3e160]:
+              - generic [ref=f3e161]:
+                - button [ref=f3e162] [cursor=pointer]:
+                  - button [ref=f3e165]:
+                    - img "Play" [ref=f3e166]
+                - generic [ref=f3e169]:
+                  - link "Drum Energetic - Version 7 (Gotta Go Fast)" [ref=f3e170] [cursor=pointer]:
+                    - /url: /sound-effects/musical-drum-energetic-version-7-gotta-go-fast-616769/
+                  - link "BombinSound" [ref=f3e171] [cursor=pointer]:
+                    - /url: /users/bombinsound-54782632/
+              - generic [ref=f3e172]:
+                - text: ","
+                - generic [ref=f3e173]:
+                  - button "Download" [ref=f3e174] [cursor=pointer]:
+                    - generic:
+                      - img "Download"
+                  - button "Dots" [ref=f3e175] [cursor=pointer]:
+                    - generic:
+                      - img "Dots"
+          - button "Load more" [ref=f3e177] [cursor=pointer]
+      - generic [ref=f3e180]:
+        - generic [ref=f3e181]:
+          - generic [ref=f3e182]:
+            - generic [ref=f3e183]:
+              - img "Check" [ref=f3e185]
+              - generic [ref=f3e188]:
+                - text: Free for use under the Pixabay
+                - link "Content License" [ref=f3e189] [cursor=pointer]:
+                  - /url: /service/license-summary/
+            - generic [ref=f3e192]:
+              - button "Free download" [ref=f3e193] [cursor=pointer]
+              - button [ref=f3e194] [cursor=pointer]
+          - separator [ref=f3e195]
+          - generic [ref=f3e196]:
+            - generic [ref=f3e197]:
+              - button "HeartOutline 547" [ref=f3e199] [cursor=pointer]:
+                - generic:
+                  - img "HeartOutline"
+                - generic: "547"
+              - button "Save" [ref=f3e201] [cursor=pointer]
+              - button "CommentOutline" [ref=f3e202] [cursor=pointer]:
+                - generic:
+                  - img "CommentOutline"
+              - button "Share" [ref=f3e203] [cursor=pointer]:
+                - generic:
+                  - img "Share"
+              - button "Flag" [ref=f3e205] [cursor=pointer]:
+                - generic:
+                  - img "Flag"
+            - generic [ref=f3e207]:
+              - generic [ref=f3e208]:
+                - generic [ref=f3e209]: Plays
+                - generic [ref=f3e210]: 1,943,928
+              - generic [ref=f3e211]:
+                - generic [ref=f3e212]: Downloads
+                - generic [ref=f3e213]: 155,767
+              - button "Show details" [ref=f3e215] [cursor=pointer]
+          - separator [ref=f3e216]
+          - generic [ref=f3e219]:
+            - generic [ref=f3e220]:
+              - link [ref=f3e223] [cursor=pointer]:
+                - /url: /users/universfield-28281460/
+                - img "Universfield" [ref=f3e224]
+              - generic [ref=f3e225]:
+                - generic [ref=f3e226]:
+                  - link "Universfield" [ref=f3e227] [cursor=pointer]:
+                    - /url: /users/universfield-28281460/
+                  - link [ref=f3e228] [cursor=pointer]:
+                    - /url: /service/ambassador/
+                    - img "StarOutline" [ref=f3e230]
+                - generic [ref=f3e233]: 8,162 followers
+              - button "Follow" [ref=f3e234] [cursor=pointer]
+            - generic [ref=f3e235]:
+              - paragraph [ref=f3e237]:
+                - text: "Universfield is a music producer and composer creating dark background music for videos, films, games, documentaries, TV, radio, podcasts, and creative projects. Thank you for every follow, like, and comment! ►Stream Apple Music:"
+                - link "https://music.apple.com/us/artist/universfield/1794618615" [ref=f3e238] [cursor=pointer]:
+                  - /url: https://music.apple.com/us/artist/universfield/1794618615
+                - text: "Spotify:"
+                - link "https://open.spotify.com/artist/1peMKjzVzDRjx3Ue5fFKKW" [ref=f3e239] [cursor=pointer]:
+                  - /url: https://open.spotify.com/artist/1peMKjzVzDRjx3Ue5fFKKW
+                - text: ►Subscribe to Universfield on YouTube
+                - link "https://youtube.com/@Universfield?sub_confirmation=1" [ref=f3e240] [cursor=pointer]:
+                  - /url: https://youtube.com/@Universfield?sub_confirmation=1
+                - text: ►Link in Bio
+                - link "https://unil.ink/universfield" [ref=f3e241] [cursor=pointer]:
+                  - /url: https://unil.ink/universfield
+              - button "Show more" [ref=f3e243] [cursor=pointer]
+            - button "Donate" [ref=f3e245] [cursor=pointer]
+        - link [ref=f3e247] [cursor=pointer]:
+          - /url: https://www.canva.com/video-editor/?utm_medium=partner&utm_source=pixabay&utm_campaign=canva_brand&utm_term=70.1
+          - heading "Split and splice your videos" [level=3] [ref=f3e252]
+          - button "Explore video editor" [ref=f3e254]
+    - contentinfo [ref=f3e255]:
+      - generic [ref=f3e256]:
+        - generic [ref=f3e257]:
+          - generic [ref=f3e262]: Over 6.3 million+ high quality stock images, videos and music shared by our talented community.
+          - generic [ref=f3e263]:
+            - link "Instagram" [ref=f3e264] [cursor=pointer]:
+              - /url: https://www.instagram.com/pixabay/
+              - img "Instagram" [ref=f3e265]
+            - link "Facebook" [ref=f3e268] [cursor=pointer]:
+              - /url: https://www.facebook.com/pixabay
+              - img "Facebook" [ref=f3e269]
+            - link "TikTok" [ref=f3e272] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@pixabaymedia
+              - img "TikTokBrand" [ref=f3e273]
+            - link "Twitter" [ref=f3e284] [cursor=pointer]:
+              - /url: https://x.com/pixabay
+              - img "TwitterX" [ref=f3e285]
+            - link "LinkedIn" [ref=f3e291] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/pixabay/
+              - img "Linkedin" [ref=f3e292]
+            - link "YouTube" [ref=f3e295] [cursor=pointer]:
+              - /url: https://www.youtube.com/@pixabaymedia
+              - img "Youtube" [ref=f3e296]
+            - link "Pinterest" [ref=f3e299] [cursor=pointer]:
+              - /url: https://pinterest.com/pixabay/
+              - img "Pinterest" [ref=f3e300]
+        - generic [ref=f3e303]:
+          - generic [ref=f3e304]: Discover
+          - generic [ref=f3e305]:
+            - link "Editor's Choice" [ref=f3e306] [cursor=pointer]:
+              - /url: /editors_choice/
+            - link "Curated Collections" [ref=f3e308] [cursor=pointer]:
+              - /url: /collections/
+            - link "Pixabay Radio" [ref=f3e310] [cursor=pointer]:
+              - /url: /playlists/
+            - link "Popular Images" [ref=f3e312] [cursor=pointer]:
+              - /url: /images/search/
+            - link "Popular Videos" [ref=f3e314] [cursor=pointer]:
+              - /url: /videos/search/
+            - link "Popular Music" [ref=f3e316] [cursor=pointer]:
+              - /url: /music/search/
+            - link "Popular Searches" [ref=f3e318] [cursor=pointer]:
+              - /url: /popular-searches/
+        - generic [ref=f3e320]:
+          - generic [ref=f3e321]: Community
+          - generic [ref=f3e322]:
+            - link "Contests Live" [ref=f3e323] [cursor=pointer]:
+              - /url: /contests/
+              - generic [ref=f3e324]: Contests
+              - generic [ref=f3e325]: Live
+            - link "Creators" [ref=f3e328] [cursor=pointer]:
+              - /url: /users/
+            - link "Ambassadors" [ref=f3e330] [cursor=pointer]:
+              - /url: /service/ambassador/
+            - link "Forum" [ref=f3e332] [cursor=pointer]:
+              - /url: /forum/
+            - link "Blog" [ref=f3e334] [cursor=pointer]:
+              - /url: /blog/
+        - generic [ref=f3e336]:
+          - generic [ref=f3e337]: About
+          - generic [ref=f3e338]:
+            - link "About Us" [ref=f3e339] [cursor=pointer]:
+              - /url: /service/about/
+            - link "FAQ" [ref=f3e341] [cursor=pointer]:
+              - /url: /service/faq/
+            - link "License Summary" [ref=f3e343] [cursor=pointer]:
+              - /url: /service/license-summary/
+            - link "Terms of Service" [ref=f3e345] [cursor=pointer]:
+              - /url: /service/terms/
+            - link "Privacy Policy" [ref=f3e347] [cursor=pointer]:
+              - /url: /service/privacy/
+            - link "Cookies Policy" [ref=f3e349] [cursor=pointer]:
+              - /url: /service/cookies/
+            - link "Digital Services Act" [ref=f3e351] [cursor=pointer]:
+              - /url: /service/digital-services-act/
+            - link "Report Content" [ref=f3e353] [cursor=pointer]:
+              - /url: /content-reports/
+            - link "API" [ref=f3e355] [cursor=pointer]:
+              - /url: /service/about/api/
+  - generic: Cookies Settings

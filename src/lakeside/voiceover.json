@@ -1,0 +1,24 @@
+{
+	"engine": "vieneu",
+	"voice": "Quỳnh Anh",
+	"lines": [
+		{
+			"id": "01-intro",
+			"text": "Bên hồ sen xanh mát, cún bông và vịt vàng đang chơi bóng cùng nhau.",
+			"audio": "voiceover/lakeside/01-intro.mp3",
+			"durationMs": 4032
+		},
+		{
+			"id": "02-frog",
+			"text": "Chú ếch xanh trên lá sen vỗ tay reo vui: giỏi quá đi thôi!",
+			"audio": "voiceover/lakeside/02-frog.mp3",
+			"durationMs": 3792
+		},
+		{
+			"id": "03-outro",
+			"text": "Một ngày thật vui bên hồ sen!",
+			"audio": "voiceover/lakeside/03-outro.mp3",
+			"durationMs": 1872
+		}
+	]
+}

@@ -1,0 +1,23 @@
+// Bé Thư's look: black bob with a blunt fringe, flower clip, pastel yellow tee, denim shorts
+export const THU = {
+	skin: '#F7D6BC',
+	skinShade: '#E5B798',
+	blush: '#F59AA6',
+	hair: '#2C2426',
+	hairLight: '#5A4C50',
+	iris: '#6B4330',
+	clip: '#F7C948',
+	clipCenter: '#EE8E3C',
+	lips: '#E9828C',
+	tee: '#FBE38A',
+	teeShade: '#EACB62',
+	shorts: '#7FA6D6',
+	shortsShade: '#6188BB',
+	cuff: '#A9C5E8',
+	sandal: '#C88B5A',
+	sandalDark: '#A56B40',
+	mouth: '#8C3B42',
+	tongue: '#F09AA2',
+	tear: '#9ED3F0',
+	sweat: '#9ED3F0',
+} as const;

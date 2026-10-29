@@ -5,3 +5,12 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# ElevenLabs key for scripts/generate-voiceover.mjs (kept out of .env on purpose)
+.env.elevenlabs
+
+# Python env for VieNeu-TTS
+.venv
+
+# Voice samples for VieNeu cloning: personal recordings, never committed
+voices
